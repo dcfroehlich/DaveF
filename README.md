@@ -1,2 +1,2 @@
 # DaveF
-Two-dimensional depth-averaged Flow Model
+Two-dimensional depth-averaged Surface-water Flow Model
